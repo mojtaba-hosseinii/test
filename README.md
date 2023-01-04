@@ -1,3 +1,3 @@
 # test
 test repository
-hello Moj
+hello Moji
