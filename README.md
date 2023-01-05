@@ -1,4 +1,4 @@
 # test
 test repository
-hello Moji
+helloMoji
 hello Roma
